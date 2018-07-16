@@ -7,7 +7,7 @@ include CDN this link into your index.html:</br>
 
 
 </pre>
-include class <strong>"chiptag"</strong> for our stylish custon tag search bar.
+include class <strong>"chiptag"</strong> for custon chip tag search bar.
  (data);
 <h2><b>chipSearch._init(</b><i>args</i><b>):</b></h2> 
 <Strong>args</Strong><i><b>:  <strong>Object</strong>{'elem':</b>DOM element,<b>'data':</b>data,<b>'placeholder':</b>'enter search'}</i></br>
