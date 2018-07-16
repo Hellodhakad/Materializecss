@@ -10,7 +10,7 @@ include CDN this link into your index.html:</br>
 include class <strong>"chiptag"</strong> for our stylish custon tag search bar.
  (data);
 <h2><b>chipSearch._init(</b><i>args</i><b>):</b></h2> 
-<Strong>args</Strong><i><b>:  <strong>Object</strong>{'elem':</b>DOM element,<b>'data':</b>data,<b>'placeholder':</b>'erer'}</i></br>
+<Strong>args</Strong><i><b>:  <strong>Object</strong>{'elem':</b>DOM element,<b>'data':</b>data,<b>'placeholder':</b>'enter search'}</i></br>
 <strong>elem</strong>: DOM element on which we want to apply searchbar module.</br>
 <strong>placeholder</strong>: <strong>String</strong>   placeholder for searchbar</br>
 <strong>data</strong>:
@@ -21,6 +21,5 @@ include class <strong>"chiptag"</strong> for our stylish custon tag search bar.
             Mango: ["mango1", "mango2"]</br>
         }
 
-    </p>
 </br>
 <h2><b> chipSearch.getData()</b>: get chips data</h2>
